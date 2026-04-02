@@ -1,0 +1,28 @@
+
+.tourMainCont{
+    position: relative;
+    overflow-x: hidden;
+}
+
+.tourCard{
+    position: absolute;
+    top:7.5rem;
+    transition:opacity 0.8s ease-in-out;
+   
+}
+.image_1,.image_2,.image_3{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 12px;
+    box-shadow: 5px 5px 15px black;
+}
+.image_1{
+    background-image: url("https://getwallpapers.com/wallpaper/full/5/b/5/602218.jpg");
+}
+.image_2{
+    background-image: url("../../assets/images/img.jpg");
+}
+.image_3{
+ background-image: url("https://images.wallpaperscraft.com/image/single/mountains_forest_lake_156939_1920x1080.jpg");
+}

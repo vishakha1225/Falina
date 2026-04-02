@@ -1,0 +1,8 @@
+.navLinks{
+    text-decoration: none;
+    text-decoration-line: none;
+}
+.changeIMG{
+    background-blend-mode: lighten;
+    /* opacity: 0; */
+}
